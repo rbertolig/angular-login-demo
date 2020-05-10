@@ -11,7 +11,7 @@ export class AuthService {
   // raiz de la url de la api de firebase
   private url = 'https://www.googleapis.com/identitytoolkit/v3/relyingparty';
   // mi api key de firebase para esta aplicacion
-  private apikey = 'AIzaSyBVdshimdgq-7A1iN7gorDqbYlc8h2v5SM';
+  private apikey = 'poner-api-aqui';
 
   // almacenera el token de sesion de usuario autenticado
   userToken: string;
